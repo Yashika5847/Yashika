@@ -1,0 +1,100 @@
+/*Yashika Yashika 8925847*/
+html{
+    font : normal normal normal 20px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1, h2{
+    font-variant: small-caps;
+}
+
+figcaption{
+    font-style: bold;
+    font-variant: small-caps;
+    font: size 1.5rem;
+}
+
+q{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+footer p{
+    font-size: 0.5rem;
+}
+
+body{
+
+    width : 90%;
+    max-width : 1000px;
+    margin : 0 auto;
+    padding : 0.25rem;
+}
+
+.main-section-figure img{
+    height:80%;
+    width: 80%;
+    text-align: center;
+}
+
+.figure{
+    height:50%;
+    width:50%;
+    padding : 2.50rem;
+    margin-top: 2.50rem;
+    margin-bottom: 1.50rem;
+    text-align: center;
+}
+
+iframe{
+    width: 80%;
+    padding : 1.50rem;
+}
+
+.main-section{
+    background-color: hsla(0, 40%, 84%, 0.907);
+    text-align: center;
+    padding : 1.25rem;
+}
+
+header, footer{
+    background-image: linear-gradient(lightpink 50%, lightblue 50%);
+    text-align: center;
+}
+
+
+blockquote >cite{
+    color:rgb(16, 17, 17);
+    font-size:0.80em;
+}
+
+#biography blockquote{
+    text-align: right;
+}
+
+.main-section-figure img{
+    padding : 1.50rem;
+}
+
+#quote q{
+    padding : 1.50rem;
+}
+
+#relative-path-image{
+  border : .25rem solid rgb(226, 195, 226);
+  color : rgb(14, 13, 14);
+  background-color: hsla(6, 18%, 89%, 0.779);
+}
+
+#absolute-path-image{
+  border : .25rem solid rgb(126, 205, 251);
+  color : rgb(4, 8, 10);
+  background-color: hsla(70, 32%, 65%, 1.5);
+}
+
+h1, h2{
+    color:rgb(9, 9, 9);
+}
+
+.main-section{
+    background-color: hsla(40, 30%, 30%, 0.5);
+}
